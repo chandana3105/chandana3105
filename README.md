@@ -1,6 +1,6 @@
 # Hi, I'm Chandana 👋
 
-MS in Data Science at Arizona State University, building AI systems that actually do things — agents that browse the web, pipelines that process documents, models that find patterns in messy data.
+MS in Data Science at Arizona State University, building AI systems that actually do things. Agents that browse the web, pipelines that process documents, models that find patterns in messy data.
 
 I'm looking for roles in **AI/ML Engineering**, **Data Science**, and **Software Engineering**.
 
@@ -45,11 +45,4 @@ I'm looking for roles in **AI/ML Engineering**, **Data Science**, and **Software
 
 ---
 
-## GitHub Stats
-
-![Chandana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandana3105&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandana3105&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
-*Open to full time roles starting 2025. Feel free to reach out on LinkedIn.*
+*Open to full time roles. Feel free to reach out on LinkedIn.*
